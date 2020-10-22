@@ -21,3 +21,5 @@ berikut:[click Here](https://git-scm.com/)
 
 `git --version`
 
+![Version](foto/version1.png)
+
