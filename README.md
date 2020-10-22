@@ -88,3 +88,6 @@ Setelah file README.md diedit, silahkan Simpan file tersebut dengan cara **CTRL+
 
 `git commit -m "nama"`
 
+![m nama](foto/nama-m.png)
+
+
