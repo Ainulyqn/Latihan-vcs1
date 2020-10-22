@@ -15,7 +15,7 @@ berikut:[click Here](https://git-scm.com/)
 
 * setelah file terdownload silahkan lakukan instalasi dengan referensi berikut ini : [Git instalation guide](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
-* ![instalasi git](foto/ss2.png)
+![instalasi git](foto/ss2.png)
 
 * setelah installasi selesai,buka GitBash pada menu di windows, dan lakukan pengecekan versi,dengan mengetik syntax berikut :
 
