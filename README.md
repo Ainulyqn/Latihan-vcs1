@@ -53,3 +53,13 @@ berikut:[click Here](https://git-scm.com/)
 * Jika repository sudah dibuat maka akan muncul tampilan seperti dibawah ini :
 
 ![new repository](foto/new.png)
+
+* Pembuatan akun dan repository pada Github telah selesai, saat ini akan kita lakukan untuk *me-remote* repository Github pada GitBash Lokal. Bagaimana caranya? Langkah pertama kita harus menyalin link *URL git* kita di Github, dengan cara tekan tombol **Code** lalu klik *Copy*.
+
+![code](foto/code.png)
+
+* Setelah *Link URL git kita tercopy*, Silahkan buka File Explorer pada Windows, kemudian pilih folder dimana kita akan mendownload Repository dari Github ke lokal. Kemudian Klik Kanan, Pilih **Git Bash Here**.
+
+![gitbas](foto/gitbas.png)
+
+*Pop Up Command Prompt* **(CMD)** akan terbuka. Pada proses ini kita akan melakukan download file repository yang tadi dibuat, dengan mengetikkan syntax berikut :
