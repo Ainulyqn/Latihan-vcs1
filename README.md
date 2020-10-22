@@ -31,3 +31,7 @@ berikut:[click Here](https://git-scm.com/)
 
 ![user](foto/email.png)
 
+* buat akun di **GitHub**,seperti contoh dibawah ini. Dan lakukan verifikasi akun melalui email yang sudah terdaftar.
+
+* jika akun **GitHub** sudah selesai dibuat dan di verifikasi, proses selanjutnya silahkan buat Repository seperti gambar dibawah ini :
+**Penjelasan**
