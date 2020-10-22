@@ -36,3 +36,15 @@ berikut:[click Here](https://git-scm.com/)
 * jika akun **GitHub** sudah selesai dibuat dan di verifikasi, proses selanjutnya silahkan buat Repository seperti gambar dibawah ini :
 
 **Penjelasan**
+
+* `Repository Name : (Silahkan isi nama repository yan diinginkan seperti contoh saya ingin membuat repository Latihanvcs3)`
+
+* `Description : (Isi dengan deskripsi atau penjelasan tentang repository Anda)`
+
+* `Public / Private : (Pilih salah satu jenis repository akan bisa dilihan sama semua orang atau tidak)`
+
+* `Add a README.md file : Centang pada bagian ini jika Anda menginginkan file README.md ada di repository Anda`
+
+* `Add .gitignore : Merupakan sebuah file yang berisi daftar nama-nama file dan direktori yang akan diabaikan oleh Git.`
+
+* `Choose a license : Silahkan centang jika Anda memiliki lisensi pada repository yang akan dibuat Kemudian tekan tombol Create Repository untuk menyimpan`
