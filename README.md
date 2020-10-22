@@ -8,5 +8,5 @@
 
 # **LANGKAH-LANGKAH PENGGUNAAN GIT <br>**
 
-* Download git terlebih dahulu,dengan link berikut :
-[click Here]
+* Download git terlebih dahulu,dengan link 
+berikut:[click Here](https://gitforwindows.org/)
