@@ -63,3 +63,7 @@ berikut:[click Here](https://git-scm.com/)
 ![gitbas](foto/gitbas.png)
 
 *Pop Up Command Prompt* **(CMD)** akan terbuka. Pada proses ini kita akan melakukan download file repository yang tadi dibuat, dengan mengetikkan syntax berikut :
+
+git clone [URL] pada contohnya, saya akan memasukan git clone
+https://github.com/Ainulyqn/Latihan-vcs1.git 
+
