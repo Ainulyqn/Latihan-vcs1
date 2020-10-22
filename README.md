@@ -6,5 +6,5 @@
 
 **NIM : 312010423**
 
-* LANGKAH-Langkah Penggunaan Git <br>
+**LANGKAH-LANGKAH PENGGUNAAN GIT <br>**
 
