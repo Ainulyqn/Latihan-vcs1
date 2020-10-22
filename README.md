@@ -66,3 +66,14 @@ berikut:[click Here](https://git-scm.com/)
 
 git clone [URL](https://github.com/Ainulyqn/Latihan-vcs1.git) pada contohnya, saya akan memasukan git clone
 
+![clone](foto/clone.png)
+
+* Setelah proses cloning selesai, pada saat ini kita masih pada folder awal, kita harus masuk kedalam folder yang telah dicloning tadi yaitu LatihanVCS dengan mengetikkan syntax berikut : cd Latihanvcs1/
+
+![latihan](foto/latihan2.png)
+
+* Saat ini kita sudah masuk kedalam folder *LatihanVCS*, Silahkan edit file README.md yang ada di File Explorer. Bisa menggunakan Text Editor *(Sublime Text, Notepad, Notepad++, Visual Studio Code)*. Edit sesuai dengan keinginan.
+
+![VSC nama](foto/nama.png)
+
+Setelah file README.md diedit, silahkan Simpan file tersebut dengan cara **CTRL+S atau File -> Save**
