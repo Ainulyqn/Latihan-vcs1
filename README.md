@@ -23,3 +23,11 @@ berikut:[click Here](https://git-scm.com/)
 
 ![Version](foto/version1.png)
 
+* jika muncul tampilan git version, berarti Git sudah berhasil di install dan bisadi gunakan Langkah pertama kita mengkonfirmasikan user name dan email di git, dengan mengetikan syntax berikut :
+
+`git commit --global user.name"masukan nama anda"`
+
+`git commit --global user.email "masukin email anda"`
+
+![user](foto/email.png)
+
