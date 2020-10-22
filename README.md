@@ -10,3 +10,5 @@
 
 * Download git terlebih dahulu,dengan link 
 berikut:[click Here](https://gitforwindows.org/)
+
+![download git](latihanvcs1/foto-1 download.PNG)
