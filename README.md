@@ -48,3 +48,8 @@ berikut:[click Here](https://git-scm.com/)
 * `Add .gitignore : Merupakan sebuah file yang berisi daftar nama-nama file dan direktori yang akan diabaikan oleh Git.`
 
 * `Choose a license : Silahkan centang jika Anda memiliki lisensi pada repository yang akan dibuat Kemudian tekan tombol Create Repository untuk menyimpan`
+![repository](foto/Repository.png)
+
+* Jika repository sudah dibuat maka akan muncul tampilan seperti dibawah ini :
+
+![new repository](foto/new.png)
