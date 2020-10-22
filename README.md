@@ -80,7 +80,7 @@ Setelah file README.md diedit, silahkan Simpan file tersebut dengan cara **CTRL+
 
 * Langkah selanjutnya setelah file disimpan, kita kembali pada App Git Bash **(CMD)**. Ketik pada Git Bash seperti berikut ini :
 
-`git add.`
+`git add .`
 
 ![git add](foto/gitadd.png)
 
