@@ -98,7 +98,7 @@ Setelah file README.md diedit, silahkan Simpan file tersebut dengan cara **CTRL+
 
 * Semua proses telah selesai, silahkan kembali ke Web Browser untuk melihat perubahan yang telah di commit dan push dari remote.
 
-![lagi](foto/liat lagi.png)
+![lagi](foto/liatlagi.png)
 
 **Sekian Terima Kasih**
 
